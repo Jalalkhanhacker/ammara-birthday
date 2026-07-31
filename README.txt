@@ -1,0 +1,1 @@
+Put your photos as images/1.jpg to 6.jpg

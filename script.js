@@ -1,0 +1,1 @@
+const g=document.getElementById('gift'),c=document.getElementById('content');const s=document.getElementById('slide');let i=1;g.onclick=()=>{g.style.display='none';c.style.display='block';setInterval(()=>{i=i%6+1;s.src='images/'+i+'.jpg';},2000)};
